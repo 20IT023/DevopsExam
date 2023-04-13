@@ -91,7 +91,7 @@ pipeline {
                     }  
                 }
             }
-        }
+        
 
         // stage('commit and push to git'){
         //     steps{
